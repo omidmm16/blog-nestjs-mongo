@@ -7,9 +7,9 @@
 [linux-image]: https://img.shields.io/travis/nestjs/nest/master.svg?label=linux
 [linux-url]: https://travis-ci.org/nestjs/nest
 
-## Description
+##
 
-Simple blog backend application created with usage of the NestJS and Mongoose.
+Blog backend application created with usage of the NestJS and Mongoose.
 
 ## Installation
 
@@ -49,4 +49,4 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## License
 
-  Nest is [MIT licensed](LICENSE).
+Nest is [MIT licensed](LICENSE).
